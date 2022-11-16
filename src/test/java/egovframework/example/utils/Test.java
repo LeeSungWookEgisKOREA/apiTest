@@ -24,6 +24,7 @@ import javax.xml.transform.stream.StreamResult;
 import org.json.JSONObject;
 import org.json.XML;
 import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 
 public class Test {
